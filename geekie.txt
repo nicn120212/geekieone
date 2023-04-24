@@ -6,7 +6,7 @@ function start() {
 
   var link = "https://one.geekie.com"; // link to app webpage
   var title = "Geekie One"; // title shown in navbar
-  var id = "https://raw.githubusercontent.com/nicn120212/geekieone/master/geekieone.txt"; // set this to the url location of your script
+  var id = "https://raw.githubusercontent.com/nicn120212/geekieone/master/geekie.txt"; // set this to the url location of your script
   
   ////SCRIPT////
   
